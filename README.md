@@ -14,10 +14,10 @@ Computer Science and Information Engineering Group
 
 ## Experience
 ### Undergraduate Researcher of National Center for Theoretical Sciences Mathematics Division Undergraduate Summer Research Program + Undergraduate Research Program
-  Studied image processing issues including image denoising and image stitching.
-  Studied surface processing issues including surface denoising and surface alignment.
-  Studied optimization algorithms and various methods for solving large linear systems.
-  Proposed improved algorithms for image denoising and stitching.
+*Studied image processing issues including image denoising and image stitching.
+*Studied surface processing issues including surface denoising and surface alignment.
+*Studied optimization algorithms and various methods for solving large linear systems.
+*Proposed improved algorithms for image denoising and stitching.
 ### Research Assistant of Research Combining Mixed Reality Display and the Field of Artificial Intelligence
   Implemented student-proposed theories into experimental programs.
   Led programming instruction for project team members.
