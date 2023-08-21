@@ -40,10 +40,10 @@ Computer Science and Information Engineering Group
 <img src="assets/player.gif" width="600"/>
 
 ### A Study on the Image Stitching Technology
+- Achieved an image stitching process that is 0.23 times faster than Photoshop.
 - Introduced a Poisson‑based smoothing method to seamlessly integrate images with severe chromatic aberration.
 - Applied conformal reshaping to the stitching process to refine results and ensure image data integrity.
 - Enhanced the stitching accuracy of the SIFT algorithm with mismatch detection.
-- Achieved an image stitching process that is 0.23 times faster than Photoshop.
 <img src="assets/stitching_demo.png" width="600"/>
 
 ### A Small Object Detection Framework for Unmanned Aerial Vehicles Images [[Report]](assets/UAV_report.pdf "Report")
@@ -83,8 +83,8 @@ Computer Science and Information Engineering Group
 
 ## Skills
 ### Programming
-##### LANGUAGE
+Language
 - C, C++, MATLAB, Python, C#, LaTeX, PHP, Java(Android)
 
-##### DEVELOPER TOOL
+Developer Tool
 - VSCode, Xcode, MATLAB, PyCharm, Visual Studio, Unity, Android Studio
