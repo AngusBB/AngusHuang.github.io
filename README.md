@@ -7,23 +7,23 @@
 As a mathematics student with a strong passion for artificial intelligence, I enjoy leveraging my mathematical knowledge to solve real‐world computer vision tasks through AI integration. For example, I have recently developed a real‐time automatic system for tracking and analyzing basketball matches using computer vision, deep learning models, and various mathematical techniques. As hobbies, I have served as the team leader in three AI Cup competitions, each with commendable results.
 
 ## Education
-### National Taiwan Normal University (Bachelor of Mathematics)
+#### National Taiwan Normal University (Bachelor of Mathematics)
 TA Course: Computer Programming
-### Taipei Municipal Chenggong High School (Math and Science Talented Class)
+#### Taipei Municipal Chenggong High School (Math and Science Talented Class)
 Computer Science and Information Engineering Group
 
 ## Experience
-### Undergraduate Researcher of National Center for Theoretical Sciences Mathematics Division Undergraduate Summer Research Program + Undergraduate Research Program
+#### Undergraduate Researcher of National Center for Theoretical Sciences Mathematics Division Undergraduate Summer Research Program + Undergraduate Research Program
 - Studied image processing issues including image denoising and image stitching.
 - Studied surface processing issues including surface denoising and surface alignment.
 - Studied optimization algorithms and various methods for solving large linear systems.
 - Proposed improved algorithms for image denoising and stitching.
 
-### Research Assistant of Research Combining Mixed Reality Display and the Field of Artificial Intelligence
+#### Research Assistant of Research Combining Mixed Reality Display and the Field of Artificial Intelligence
 - Implemented student-proposed theories into experimental programs.
 - Led programming instruction for project team members.
 
-### Research Assistant of Practical Applications of Computational Geometry in Three-Dimensional Imaging
+#### Research Assistant of Practical Applications of Computational Geometry in Three-Dimensional Imaging
 - Taught project team members the fundamentals of image processing.
 
 ## Projects
@@ -48,7 +48,7 @@ Computer Science and Information Engineering Group
 - Achieved an image stitching process that is 0.23 times faster than Photoshop.
 <img src="assets/stitching_demo.png" width="600"/>
 
-### A Small Object Detection Framework for Unmanned Aerial Vehicles Images
+### A Small Object Detection Framework for Unmanned Aerial Vehicles Images [[Report]](assets/UAV_report.pdf "Report")
 - Proposed a Small Object Augmentation (SOA) algorithm to improve the detection model’s ability to recognize small objects.
 - Achieved a 30% improvement in small object recognition compared to models without the SOA algorithm.
 
@@ -57,13 +57,13 @@ Computer Science and Information Engineering Group
 
 
 ## Honors & Awards
-Most Popular Award,           2023 Taiwan Society for Industrial and Applied Mathematics \
-Excellent Presentation Award, The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics \
-Honorable Mention Award,      AI CUP 2022 Fall Crop Image Recognition Competition \
-Honorable Mention Award,      AI CUP 2022 Fall UAV Object Detection Competition \
-Excellent Poster Paper Award, 2022 Taiwan Society for Industrial and Applied Mathematics \
-Honorable Mention Award,      AI CUP 2022 Spring STAS Object Detection Competition \
-Excellent Presentation Award, The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics
+**Most Popular Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 Taiwan Society for Industrial and Applied Mathematics \
+**Excellent Presentation Award**,&nbsp;&nbsp;The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics \
+**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall Crop Image Recognition Competition \
+**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall UAV Object Detection Competition \
+**Excellent Poster Paper Award**,&nbsp;&nbsp;2022 Taiwan Society for Industrial and Applied Mathematics \
+**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Spring STAS Object Detection Competition \
+**Excellent Presentation Award**,&nbsp;&nbsp;The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics
 
 ## Presentation
 **2023 NCTS-URP Summer Presentation** \
