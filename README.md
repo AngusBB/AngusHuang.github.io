@@ -54,7 +54,7 @@ Computer Science and Information Engineering Group
 
 ### An AI Referee of Badminton Matches
 - Developed a pipeline for analyzing single‑camera perspective broadcasts of badminton matches.
-
+<img src="assets/badminton.gif" width="600"/>
 
 ## Honors & Awards
 **Most Popular Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 Taiwan Society for Industrial and Applied Mathematics \
