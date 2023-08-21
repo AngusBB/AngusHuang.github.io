@@ -18,9 +18,11 @@ Computer Science and Information Engineering Group
 - Studied surface processing issues including surface denoising and surface alignment.
 - Studied optimization algorithms and various methods for solving large linear systems.
 - Proposed improved algorithms for image denoising and stitching.
+
 ### Research Assistant of Research Combining Mixed Reality Display and the Field of Artificial Intelligence
 - Implemented student-proposed theories into experimental programs.
 - Led programming instruction for project team members.
+
 ### Research Assistant of Practical Applications of Computational Geometry in Three-Dimensional Imaging
 - Taught project team members the fundamentals of image processing.
 
@@ -30,6 +32,7 @@ Computer Science and Information Engineering Group
 - Designed an algorithm with a higher convergence rate than other classic Total Variation methods.
 - Proved the convergence of the algorithm theoretically.
 - Extended the method to surface denoising through surface parametrization.
+
 ### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on Computer Vision and Deep Learning Model
 - Developed a pipeline to locate players and ball on a 3D virtual tactical board in real‑time.
 - Eliminated the need for players to wear extra infrared equipment that could obstruct their movements.
@@ -43,11 +46,15 @@ Computer Science and Information Engineering Group
 - Applied conformal reshaping to the stitching process to refine results and ensure image data integrity.
 - Enhanced the stitching accuracy of the SIFT algorithm with mismatch detection.
 - Achieved an image stitching process that is 0.23 times faster than Photoshop.
+<img src="assets/stitching_demo.png" width="600"/>
+
 ### A Small Object Detection Framework for Unmanned Aerial Vehicles Images
 - Proposed a Small Object Augmentation (SOA) algorithm to improve the detection model’s ability to recognize small objects.
 - Achieved a 30% improvement in small object recognition compared to models without the SOA algorithm.
+
 ### An AI Referee of Badminton Matches
 - Developed a pipeline for analyzing single‑camera perspective broadcasts of badminton matches.
+
 
 ## Honors & Awards
 Most Popular Award,           2023 Taiwan Society for Industrial and Applied Mathematics \
@@ -80,5 +87,6 @@ Excellent Presentation Award, The 12th Japan‑Taiwan Joint Workshop in Applied 
 ### Programming
 ##### LANGUAGE
 - C, C++, MATLAB, Python, C#, LaTeX, PHP, Java(Android)
+
 ##### DEVELOPER TOOL
 - VSCode, Xcode, MATLAB, PyCharm, Visual Studio, Unity, Android Studio
