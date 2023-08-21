@@ -26,15 +26,34 @@ Computer Science and Information Engineering Group
 
 ## Projects
 ### An Improved Variational Method for Image Denoising
-- The method exhibits superior denoising performance compared to other classic Total Variation methods.
-- The algorithm's convergence rate for the method is higher than other classic Total Variation methods.
-- The convergence of the algorithm for the method is theoretically guaranteed.
-- Extending the method to surface denoising through surface parametrization
-### A Real-Time Automatic System of Tracking and Analyzing Basketball Matches based on Computer Vision and Deep Learning Model
-- Building up a pipeline for locating the players and ball on a 3D virtual tactical board in real time.
-- Automatic analyzing the teams’ tactics, or collecting and calculating individual player behavior models.
-- Preventing players from wearing extra infrared equipment which may obstruct their movements.
-- The system operates as stable and fast as traditional infrared equipment.
-- This system is actually installed in the gymnasium of NTNU for coaches to use and test.
+- Proposed a model that exhibits superior denoising performance compared to classic Total Variation methods.
+- Designed an algorithm with a higher convergence rate than other classic Total Variation methods.
+- Proved the convergence of the algorithm theoretically.
+- Extended the method to surface denoising through surface parametrization.
+### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on
+Computer Vision and Deep Learning Model
+- Developed a pipeline to locate players and ball on a 3D virtual tactical board in real‑time.
+- Eliminated the need for players to wear extra infrared equipment that could obstruct their movements.
+- Ensured the system operates as stable and fast as traditional infrared equipment.
+- Installed the system in the NTNU gymnasium for coaches to use and test.
+### A Study on the Image Stitching Technology
+- Introduced a Poisson‑based smoothing method to seamlessly integrate images with severe chromatic aberration.
+- Applied conformal reshaping to the stitching process to refine results and ensure image data integrity.
+- Enhanced the stitching accuracy of the SIFT algorithm with mismatch detection.
+- Achieved an image stitching process that is 0.23 times faster than Photoshop.
+### A Small Object Detection Framework for Unmanned Aerial Vehicles Images
+- Proposed a Small Object Augmentation (SOA) algorithm to improve the detection model’s ability to recognize small objects.
+- Achieved a 30% improvement in small object recognition compared to models without the SOA algorithm.
+### An AI Referee of Badminton Matches
+- Developed a pipeline for analyzing single‑camera perspective broadcasts of badminton matches.
 
-  
+## Honors & Awards
+Most Popular Award,           2023 Taiwan Society for Industrial and Applied Mathematics, NTNU
+Excellent Presentation Award, The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics, NTU
+Honorable Mention Award,      AI CUP 2022 Fall Crop Image Recognition Competition, NCKU
+Honorable Mention Award,      AI CUP 2022 Fall UAV Object Detection Competition, NCTU
+Excellent Poster Paper Award, 2022 Taiwan Society for Industrial and Applied Mathematics, NCTU
+Honorable Mention Award,      AI CUP 2022 Spring STAS Object Detection Competition, NCTU
+Excellent Presentation Award, The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics, NTU
+
+## Presentation
