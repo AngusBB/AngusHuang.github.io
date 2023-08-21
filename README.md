@@ -1,5 +1,3 @@
-# AngusHuang.github.io
-
 # Jing-En Huang
  📱 (+886) 927-619-756 | ✉️ 40840210s@gapps.ntnu.edu.tw
 
