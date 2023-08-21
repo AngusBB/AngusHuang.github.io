@@ -25,13 +25,12 @@ Computer Science and Information Engineering Group
 - Taught project team members the fundamentals of image processing.
 
 ## Projects
-### An Improved Variational Method for Image Denoising
+### An Improved Variational Method for Image Denoising [[Demo]](https://github.com/AngusBB/An-Improved-Variational-Method-for-Image-Denoising/tree/main "DEMO")
 - Proposed a model that exhibits superior denoising performance compared to classic Total Variation methods.
 - Designed an algorithm with a higher convergence rate than other classic Total Variation methods.
 - Proved the convergence of the algorithm theoretically.
 - Extended the method to surface denoising through surface parametrization.
-### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on
-Computer Vision and Deep Learning Model
+### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on Computer Vision and Deep Learning Model
 - Developed a pipeline to locate players and ball on a 3D virtual tactical board in real‑time.
 - Eliminated the need for players to wear extra infrared equipment that could obstruct their movements.
 - Ensured the system operates as stable and fast as traditional infrared equipment.
@@ -48,12 +47,35 @@ Computer Vision and Deep Learning Model
 - Developed a pipeline for analyzing single‑camera perspective broadcasts of badminton matches.
 
 ## Honors & Awards
-Most Popular Award,           2023 Taiwan Society for Industrial and Applied Mathematics, NTNU
-Excellent Presentation Award, The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics, NTU
-Honorable Mention Award,      AI CUP 2022 Fall Crop Image Recognition Competition, NCKU
-Honorable Mention Award,      AI CUP 2022 Fall UAV Object Detection Competition, NCTU
-Excellent Poster Paper Award, 2022 Taiwan Society for Industrial and Applied Mathematics, NCTU
-Honorable Mention Award,      AI CUP 2022 Spring STAS Object Detection Competition, NCTU
-Excellent Presentation Award, The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics, NTU
+Most Popular Award,           2023 Taiwan Society for Industrial and Applied Mathematics \
+Excellent Presentation Award, The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics \
+Honorable Mention Award,      AI CUP 2022 Fall Crop Image Recognition Competition \
+Honorable Mention Award,      AI CUP 2022 Fall UAV Object Detection Competition \
+Excellent Poster Paper Award, 2022 Taiwan Society for Industrial and Applied Mathematics \
+Honorable Mention Award,      AI CUP 2022 Spring STAS Object Detection Competition \
+Excellent Presentation Award, The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics
 
 ## Presentation
+**2023 NCTS-URP Summer Presentation** \
+&nbsp;&nbsp;&nbsp;&nbsp;*Mixed-Norm Total Variation Denoising Model with Application to Surface Imaging* \
+**TWSIAM 2023 Poster Presentation** \
+&nbsp;&nbsp;&nbsp;&nbsp;*An AI Referee of Badminton Matches* \
+**2023 NCTS Student Workshop on Scientific Computing** \
+&nbsp;&nbsp;&nbsp;&nbsp;*An Improved Variational Method for Image Denoising* \
+**The 13th Japan-Taiwan Joint Workshop for Young Scholars in Applied Mathematics** \
+&nbsp;&nbsp;&nbsp;&nbsp;*A Real-Time Automatic System of Tracking Basketball Matches based on Deep Learning Models* \
+**2022 NCTS-USRP Final Presentation** \
+&nbsp;&nbsp;&nbsp;&nbsp;*Numerical Methods for Image and Geometry Processing* \
+**TWSIAM 2022 Poster Presentation** \
+&nbsp;&nbsp;&nbsp;&nbsp;*Real-Time Automatic Tracking of Basketball and Players by Computer Vision based on YOLOv5, ByteTrack, FastReID and easyOCR Deep Learning Models* \
+**The 12th Japan-Taiwan Joint Workshop for Young Scholars in Applied Mathematics** \
+&nbsp;&nbsp;&nbsp;&nbsp;*A Study on the Image Stitching Technology* \
+**2022 NCTS Student Mini-Symposium in Applied Mathematics** \
+&nbsp;&nbsp;&nbsp;&nbsp;*A Study on the Image Stitching Technology*
+
+## Skills
+### Programming
+##### LANGUAGE
+- C, C++, MATLAB, Python, C#, LaTeX, PHP, Java(Android)
+##### DEVELOPER TOOL
+- VSCode, Xcode, MATLAB, PyCharm, Visual Studio, Unity, Android Studio
