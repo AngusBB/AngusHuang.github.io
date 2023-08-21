@@ -34,8 +34,10 @@ Computer Science and Information Engineering Group
 - Developed a pipeline to locate players and ball on a 3D virtual tactical board in real‑time.
 - Eliminated the need for players to wear extra infrared equipment that could obstruct their movements.
 - Ensured the system operates as stable and fast as traditional infrared equipment.
-- Installed the system in the NTNU gymnasium for coaches to use and test. \
-<img src="assets/basketball.mp4" width="600"/>
+- Installed the system in the NTNU gymnasium for coaches to use and test.
+<img src="assets/basketball.gif" width="600"/>
+<img src="assets/player.gif" width="600"/>
+
 ### A Study on the Image Stitching Technology
 - Introduced a Poisson‑based smoothing method to seamlessly integrate images with severe chromatic aberration.
 - Applied conformal reshaping to the stitching process to refine results and ensure image data integrity.
