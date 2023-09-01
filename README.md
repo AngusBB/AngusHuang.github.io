@@ -38,6 +38,8 @@ Computer Science and Information Engineering Group
 - Installed the system in the NTNU gymnasium for coaches to use and test.
 <img src="assets/basketball.gif" width="600"/>
 <img src="assets/player.gif" width="600"/>
+<img src="assets/basketball_4.gif" width="600"/>
+<img src="assets/basketball_4_result.gif" width="600"/>
 
 ### A Study on the Image Stitching Technology
 - Achieved an image stitching process that is 0.23 times faster than Photoshop.
