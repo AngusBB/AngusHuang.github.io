@@ -1,36 +1,41 @@
 # Jing-En Huang
- 📱 (+886) 927-619-756 | ✉️ 40840210s@gapps.ntnu.edu.tw
+ 📱 (+886) 927-619-756 | ✉️ (Academic) jingenhuang@citi.sinica.edu.tw | ✉️ (Personal) jing0en0huang@gmail.com
 
 ## Summary
-As a mathematics student with a strong passion for artificial intelligence, I enjoy leveraging my mathematical knowledge to solve real‐world computer vision tasks through AI integration. For example, I have recently developed a real‐time automatic system for tracking and analyzing basketball matches using computer vision, deep learning models, and various mathematical techniques. As hobbies, I have served as the team leader in three AI Cup competitions, each with commendable results.
-
-## Education
-#### National Taiwan Normal University (Bachelor of Mathematics)
-TA Course: Computer Programming
-#### Taipei Municipal Chenggong High School (Math and Science Talented Class)
-Computer Science and Information Engineering Group
+As a mathematics student passionate about artificial intelligence, I leverage my mathematical expertise to solve real-world computer vision challenges through AI integration. Recently, I developed a real-time automated system for tracking and analyzing basketball matches using computer vision, deep learning models, and advanced mathematical techniques. Additionally, I led teams in three AI Cup competitions, achieving commendable results in each.
 
 ## Experience
-#### Undergraduate Researcher of National Center for Theoretical Sciences Mathematics Division Undergraduate Summer Research Program + Undergraduate Research Program
-- Studied image processing issues including image denoising and image stitching.
-- Studied surface processing issues including surface denoising and surface alignment.
-- Studied optimization algorithms and various methods for solving large linear systems.
-- Proposed improved algorithms for image denoising and stitching.
+#### Research Assistant - Research Center for Information Technology Innovation, Academia Sinica
+- Developing a synthetic dataset generation framework, rectify faults in real-world datasets.
+- Implementing the framework, reducing manpower and time costs for collecting image datum.
+- Utilizing this method, enhancing performance of models trained on real-world datasets.
 
-#### Research Assistant of Research Combining Mixed Reality Display and the Field of Artificial Intelligence
-- Implemented student-proposed theories into experimental programs.
-- Led programming instruction for project team members.
-
-#### Research Assistant of Practical Applications of Computational Geometry in Three-Dimensional Imaging
-- Taught project team members the fundamentals of image processing.
-
-## Projects
-### An Improved Variational Method for Image Denoising [[Demo]](https://github.com/AngusBB/An-Improved-Variational-Method-for-Image-Denoising/tree/main "DEMO")
-- Proposed a model that exhibits superior denoising performance compared to classic Total Variation methods.
-- Designed an algorithm with a higher convergence rate than other classic Total Variation methods.
-- Proved the convergence of the algorithm theoretically.
+#### Undergraduate Researcher - Undergraduate Research Program, National Center for Theoretical Sciences Mathematics Division
+- Proposed a Total Variation model, improving denoising performance by 60%.
+- Conducted theoretical proof for convergence of the model.
 - Extended the method to surface denoising through surface parametrization.
 
+#### Research Assistant - Research Combining Mixed Reality Display and the Field of Artificial Intelligence, National Taiwan Normal University
+- Engineered a real-time system of tracking and analyzing basketball matches via computer vision.
+- Developed the end-to-end system, reducing positioning error by 35% compared to infrared devices.
+- Implemented the system in the NTNU gymnasium for coaches to analyze basketball matches.
+- 
+#### Research Assistant - Practical Applications of Computational Geometry in Three‐Dimensional Imaging, National Taiwan Normal University
+- Implemented an image stitching framework, achieving 23% times faster than Photoshop.
+- Proposed a mismatch detecting algorithm, enhancing the stitching accuracy of the SIFT algorithm.
+- Proposed a Poisson‐based smoothing method, integrating images with severe chromatic aberration.
+- Proposed a conformal reshaping method, refining results and ensuring image data integrity.
+
+## Education
+#### National Taiwan Normal University - Bachelor of Mathematics
+- TA Course: Computer Programming
+- A+ Related Courses:
+  - Mathematics: Numerical Analysis, Linear Programming, Statistics, Probability
+  - Computer Science: Data Science and Computer Programming, Computer Programming and Data Analysis in Sports, Computational Thinking and Programming
+#### Taipei Municipal Chenggong High School - Math and Science Talented Class
+Computer Science and Information Engineering Division
+
+## Projects
 ### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on Computer Vision and Deep Learning Model
 - Developed a pipeline to locate players and ball on a 3D virtual tactical board in real‑time.
 - Eliminated the need for players to wear extra infrared equipment that could obstruct their movements.
@@ -40,6 +45,12 @@ Computer Science and Information Engineering Group
 <img src="assets/player.gif" width="600"/>
 <img src="assets/basketball_4.gif" width="600"/>
 <img src="assets/basketball_4_result.gif" width="600"/>
+
+### An Improved Variational Method for Image Denoising [[Demo]](https://github.com/AngusBB/An-Improved-Variational-Method-for-Image-Denoising/tree/main "DEMO")
+- Proposed a model that exhibits superior denoising performance compared to classic Total Variation methods.
+- Designed an algorithm with a higher convergence rate than other classic Total Variation methods.
+- Proved the convergence of the algorithm theoretically.
+- Extended the method to surface denoising through surface parametrization.
 
 ### A Study on the Image Stitching Technology
 - Achieved an image stitching process that is 0.23 times faster than Photoshop.
@@ -57,10 +68,13 @@ Computer Science and Information Engineering Group
 <img src="assets/badminton.gif" width="600"/>
 
 ## Honors & Awards
+**Excellent Poster Paper Award**,&nbsp;&nbsp;2024 Taiwan Society for Industrial and Applied Mathematics \
+**Most Popular Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024 Taiwan Society for Industrial and Applied Mathematics \
+**Excellent Presentation Award**,&nbsp;&nbsp;The 14th Japan‑Taiwan Joint Workshop in Applied Mathematics \
 **Most Popular Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 Taiwan Society for Industrial and Applied Mathematics \
 **Excellent Presentation Award**,&nbsp;&nbsp;The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics \
 **Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall Crop Image Recognition Competition \
-**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall UAV Object Detection Competition \
+
 **Excellent Poster Paper Award**,&nbsp;&nbsp;2022 Taiwan Society for Industrial and Applied Mathematics \
 **Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Spring STAS Object Detection Competition \
 **Excellent Presentation Award**,&nbsp;&nbsp;The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics
