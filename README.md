@@ -19,7 +19,7 @@ As a mathematics student passionate about artificial intelligence, I leverage my
 - Engineered a real-time system of tracking and analyzing basketball matches via computer vision.
 - Developed the end-to-end system, reducing positioning error by 35% compared to infrared devices.
 - Implemented the system in the NTNU gymnasium for coaches to analyze basketball matches.
-- 
+
 #### Research Assistant - Practical Applications of Computational Geometry in Three‐Dimensional Imaging, National Taiwan Normal University
 - Implemented an image stitching framework, achieving 23% times faster than Photoshop.
 - Proposed a mismatch detecting algorithm, enhancing the stitching accuracy of the SIFT algorithm.
@@ -33,7 +33,7 @@ As a mathematics student passionate about artificial intelligence, I leverage my
   - Mathematics: Numerical Analysis, Linear Programming, Statistics, Probability
   - Computer Science: Data Science and Computer Programming, Computer Programming and Data Analysis in Sports, Computational Thinking and Programming
 #### Taipei Municipal Chenggong High School - Math and Science Talented Class
-Computer Science and Information Engineering Division
+- Computer Science and Information Engineering Division
 
 ## Projects
 ### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on Computer Vision and Deep Learning Model
@@ -71,16 +71,22 @@ Computer Science and Information Engineering Division
 **Excellent Poster Paper Award**,&nbsp;&nbsp;2024 Taiwan Society for Industrial and Applied Mathematics \
 **Most Popular Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024 Taiwan Society for Industrial and Applied Mathematics \
 **Excellent Presentation Award**,&nbsp;&nbsp;The 14th Japan‑Taiwan Joint Workshop in Applied Mathematics \
+**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall UAV Object Detection Competition \
+**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall Crop Image Recognition Competition \
 **Most Popular Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 Taiwan Society for Industrial and Applied Mathematics \
 **Excellent Presentation Award**,&nbsp;&nbsp;The 13th Japan‑Taiwan Joint Workshop in Applied Mathematics \
-**Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Fall Crop Image Recognition Competition \
-
 **Excellent Poster Paper Award**,&nbsp;&nbsp;2022 Taiwan Society for Industrial and Applied Mathematics \
 **Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Spring STAS Object Detection Competition \
 **Excellent Presentation Award**,&nbsp;&nbsp;The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics
 
 ## Presentation
-**2023 NCTS-URP Summer Presentation** \
+**TWSIAM 2024 Poster Presentation** \
+&nbsp;&nbsp;&nbsp;&nbsp;*Enhanced Real-World VQA: A Selective-Based Approach* \
+**SITCON 2024** \
+&nbsp;&nbsp;&nbsp;&nbsp;*Enhanced Real-World VQA: A Selective-Based Approach* \
+**The 14th Japan-Taiwan Joint Workshop for Young Scholars in Applied Mathematics** \
+&nbsp;&nbsp;&nbsp;&nbsp;*Multi-Camera Multi-People Tracking on Basketball Matches Based on Deep Learning Models* \
+**2023 NCTS Undergraduate Research Program Presentation** \
 &nbsp;&nbsp;&nbsp;&nbsp;*Mixed-Norm Total Variation Denoising Model with Application to Surface Imaging* \
 **TWSIAM 2023 Poster Presentation** \
 &nbsp;&nbsp;&nbsp;&nbsp;*An AI Referee of Badminton Matches* \
@@ -91,7 +97,7 @@ Computer Science and Information Engineering Division
 **2022 NCTS-USRP Final Presentation** \
 &nbsp;&nbsp;&nbsp;&nbsp;*Numerical Methods for Image and Geometry Processing* \
 **TWSIAM 2022 Poster Presentation** \
-&nbsp;&nbsp;&nbsp;&nbsp;*Real-Time Automatic Tracking of Basketball and Players by Computer Vision based on YOLOv5, ByteTrack, FastReID and easyOCR Deep Learning Models* \
+&nbsp;&nbsp;&nbsp;&nbsp;*Real-Time Automatic Tracking of Basketball and Players by Computer Vision based on Deep Learning Models* \
 **The 12th Japan-Taiwan Joint Workshop for Young Scholars in Applied Mathematics** \
 &nbsp;&nbsp;&nbsp;&nbsp;*A Study on the Image Stitching Technology* \
 **2022 NCTS Student Mini-Symposium in Applied Mathematics** \
