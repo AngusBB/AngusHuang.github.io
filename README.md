@@ -1,27 +1,27 @@
 # Jing-En Huang
  📱 (+886) 927-619-756 | ✉️ (Academic) jingenhuang@citi.sinica.edu.tw | ✉️ (Personal) jing0en0huang@gmail.com
 
-## Summary
+## Objective
 As a mathematics student passionate about artificial intelligence, I leverage my mathematical expertise to solve real-world computer vision challenges through AI integration. Recently, I developed a real-time automated system for tracking and analyzing basketball matches using computer vision, deep learning models, and advanced mathematical techniques. Additionally, I led teams in three AI Cup competitions, achieving commendable results in each.
 
 ## Experience
-#### Research Assistant - Research Center for Information Technology Innovation, Academia Sinica
+#### Research Assistant - Research Center for Information Technology Innovation, Academia Sinica (Jan. 2024 - present)
 - Developing a synthetic dataset generation framework, rectify faults in real-world datasets.
 - Implementing the framework, reducing manpower and time costs for collecting image datum.
 - Utilizing this method, enhancing performance of models trained on real-world datasets.
 
-#### Undergraduate Researcher - Undergraduate Research Program, National Center for Theoretical Sciences Mathematics Division
-- Proposed a Total Variation model, improving denoising performance by 60%.
+#### Undergraduate Researcher - Undergraduate Research Program, National Center for Theoretical Sciences Mathematics Division (Jun. 2022 - Jun. 2023)
+- Proposed a Total Variation model, improving denoising performance by **60%**.
 - Conducted theoretical proof for convergence of the model.
 - Extended the method to surface denoising through surface parametrization.
 
-#### Research Assistant - Research Combining Mixed Reality Display and the Field of Artificial Intelligence, National Taiwan Normal University
+#### Research Assistant - Research Combining Mixed Reality Display and the Field of Artificial Intelligence, National Taiwan Normal University ( Jul. 2022 - Jun. 2024)
 - Engineered a real-time system of tracking and analyzing basketball matches via computer vision.
-- Developed the end-to-end system, reducing positioning error by 35% compared to infrared devices.
+- Developed the end-to-end system, reducing positioning error by **35%** compared to infrared devices.
 - Implemented the system in the NTNU gymnasium for coaches to analyze basketball matches.
 
-#### Research Assistant - Practical Applications of Computational Geometry in Three‐Dimensional Imaging, National Taiwan Normal University
-- Implemented an image stitching framework, achieving 23% times faster than Photoshop.
+#### Research Assistant - Practical Applications of Computational Geometry in Three‐Dimensional Imaging, National Taiwan Normal University (Jul. 2021 - Jun. 2023)
+- Implemented an image stitching framework, achieving **23%** times faster than Photoshop.
 - Proposed a mismatch detecting algorithm, enhancing the stitching accuracy of the SIFT algorithm.
 - Proposed a Poisson‐based smoothing method, integrating images with severe chromatic aberration.
 - Proposed a conformal reshaping method, refining results and ensuring image data integrity.
@@ -32,8 +32,12 @@ As a mathematics student passionate about artificial intelligence, I leverage my
 - A+ Related Courses:
   - Mathematics: Numerical Analysis, Linear Programming, Statistics, Probability
   - Computer Science: Data Science and Computer Programming, Computer Programming and Data Analysis in Sports, Computational Thinking and Programming
+
 #### Taipei Municipal Chenggong High School - Math and Science Talented Class
 - Computer Science and Information Engineering Division
+
+## Publications
+- Jing-En Huang, Jia-Wei Liao, Ku-Te Lin, et al. An Improved Variational Method for Image Denoising (2024). [[Paper]](https://arxiv.org/abs/2410.02587 "Paper")
 
 ## Projects
 ### A Real‑Time Automatic System of Tracking and Analyzing Basketball Matches based on Computer Vision and Deep Learning Model
@@ -103,8 +107,15 @@ As a mathematics student passionate about artificial intelligence, I leverage my
 **2022 NCTS Student Mini-Symposium in Applied Mathematics** \
 &nbsp;&nbsp;&nbsp;&nbsp;*A Study on the Image Stitching Technology*
 
-## Skills
-### Programming
+## Certifications
+- Programming Teaching Assistant of Department of Mathematics
+- National Center for Theoretical Sciences Mathematics Division Undergraduate Research Program
+- National Center for Theoretical Sciences Mathematics Division Undergraduate Summer Research Program
+- Taipei Municipal Cheng-Gong High School Science and Math Talented Class
+- Go Professional Dan Certificate
+
+
+## Programming skills
 Language
 - C, C++, MATLAB, Python, C#, LaTeX, PHP, Java(Android)
 
