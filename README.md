@@ -63,7 +63,7 @@ As a mathematics student passionate about artificial intelligence, I leverage my
 - Enhanced the stitching accuracy of the SIFT algorithm with mismatch detection.
 <img src="assets/stitching_demo.png" width="600"/>
 
-### A Small Object Detection Framework for Unmanned Aerial Vehicles Images [[Report]](assets/UAV_report.pdf "Report")
+### A Small Object Detection Framework for Unmanned Aerial Vehicles Images [[Report]](assets/2022_AICUP_UAV.pdf "Report")
 - Proposed a Small Object Augmentation (SOA) algorithm to improve the detection model’s ability to recognize small objects.
 - Achieved a 30% improvement in small object recognition compared to models without the SOA algorithm.
 
