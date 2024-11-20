@@ -49,6 +49,7 @@ As a mathematics student passionate about artificial intelligence, I leverage my
 <img src="assets/player.gif" width="600"/>
 <img src="assets/basketball_4.gif" width="600"/>
 <img src="assets/basketball_4_result.gif" width="600"/>
+<img src="assets/basketball_3d.gif" width="600"/>
 
 ### An Improved Variational Method for Image Denoising [[Demo]](https://github.com/AngusBB/An-Improved-Variational-Method-for-Image-Denoising/tree/main "DEMO")
 - Proposed a model that exhibits superior denoising performance compared to classic Total Variation methods.
