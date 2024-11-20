@@ -2,7 +2,7 @@
  📱 (+886) 927-619-756 | ✉️ (Academic) jingenhuang@citi.sinica.edu.tw | ✉️ (Personal) jing0en0huang@gmail.com
 
 ## Objective
-As a mathematics student passionate about artificial intelligence, I leverage my mathematical expertise to solve real-world computer vision challenges through AI integration. Recently, I developed a real-time automated system for tracking and analyzing basketball matches using computer vision, deep learning models, and advanced mathematical techniques. Additionally, I led teams in three AI Cup competitions, achieving commendable results in each.
+Mathematics student passionate about artificial intelligence and computer vision. Seeking to leverage strong mathematical expertise and AI skills to develop innovative real-world solutions. Experienced in creating real-time automated systems for sports analytics, leading successful teams in AI competitions, and actively sharing expertise through numerous technical talks and presentations at international and national platforms. Currently, I’m interested in leveraging Diffusion models to create synthetic datasets that aid in solving real-world tasks.
 
 ## Experience
 #### Research Assistant - Research Center for Information Technology Innovation, Academia Sinica (Jan. 2024 - present)
@@ -84,13 +84,15 @@ As a mathematics student passionate about artificial intelligence, I leverage my
 **Honorable Mention Award**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI CUP 2022 Spring STAS Object Detection Competition \
 **Excellent Presentation Award**,&nbsp;&nbsp;The 12th Japan‑Taiwan Joint Workshop in Applied Mathematics
 
-## Presentation
+## Talks
 **TWSIAM 2024 Poster Presentation** \
 &nbsp;&nbsp;&nbsp;&nbsp;*Enhanced Real-World VQA: A Selective-Based Approach* \
 **SITCON 2024** \
 &nbsp;&nbsp;&nbsp;&nbsp;*Enhanced Real-World VQA: A Selective-Based Approach* \
 **The 14th Japan-Taiwan Joint Workshop for Young Scholars in Applied Mathematics** \
 &nbsp;&nbsp;&nbsp;&nbsp;*Multi-Camera Multi-People Tracking on Basketball Matches Based on Deep Learning Models* \
+**sciwork Conference 2023** \
+&nbsp;&nbsp;&nbsp;&nbsp;*How Can We “Perfectly and Rapidly” Stitch Images?* \
 **2023 NCTS Undergraduate Research Program Presentation** \
 &nbsp;&nbsp;&nbsp;&nbsp;*Mixed-Norm Total Variation Denoising Model with Application to Surface Imaging* \
 **TWSIAM 2023 Poster Presentation** \
